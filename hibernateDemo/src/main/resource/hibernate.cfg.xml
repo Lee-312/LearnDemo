@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration SYSTEM
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.dialect">
+            org.hibernate.dialect.MySQL5Dialect
+        </property>
+        <property name="hibernate.connection.driver_class">
+            com.mysql.cj.jdbc.Driver
+        </property>
+
+        <!-- Assume test is the database name -->
+        <property name="hibernate.connection.url">
+            jdbc:mysql://47.96.142.22:3306/dataBase_demo?useUnicode=true&amp;characterEncoding=UTF-8
+        </property>
+        <property name="hibernate.connection.username">
+            DATABASE_Demo
+        </property>
+        <property name="hibernate.connection.password">
+            lixiaoqi
+        </property>
+
+        <!--配置文件方式-->
+        <!-- hbm.xml放置在resources下，不要放java目录下，无法编译成文件-->
+        <!--        <mapping resource="hbmx/User.hbm.xml"></mapping>-->
+        <!--注解方式-->
+        <mapping class="hibernateTest.bean.User2"></mapping>
+
+    </session-factory>
+</hibernate-configuration>

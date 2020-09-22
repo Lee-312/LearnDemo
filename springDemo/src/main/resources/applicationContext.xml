@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+    <bean id="dateFormat" class="java.text.SimpleDateFormat">
+        <constructor-arg value="yyyy-MM-dd" />
+    </bean>
+    <bean id="date" factory-bean="dateFormat" factory-method="parse">
+        <constructor-arg value="2017-2-2" />
+    </bean>
+
+    <bean id="user" class="com.lee.BeanDefinition.bean.User" scope="prototype">
+        <property name="age" value="12"></property>
+        <property name="birthday" ref="date"></property>
+        <property name="name" value="小刘"></property>
+        <property name="phone" value="111222"></property>
+        <property name="sex" value="1"></property>
+        <property name="userId" value="1"></property>
+    </bean>
+
+
+
+</beans>

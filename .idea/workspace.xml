@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a181df1-2da9-417d-a290-ea17b0d924c4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/mybatisDemo/target/" />
+    <ignored path="$PROJECT_DIR$/hibernateDemo/target/" />
+    <ignored path="$PROJECT_DIR$/springDemo/target/" />
+    <ignored path="$PROJECT_DIR$/ThinkingInJAVA/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LearnDemo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&amp;</find>
+      <find>cfg</find>
+      <find>configure()</find>
+      <find>\</find>
+      <find>AnnotationInvocationHandler</find>
+      <find />
+      <find>1</find>
+      <find>threeDays</find>
+      <find>&quot;</find>
+      <find>!= 0</find>
+      <find>0</find>
+      <find>'0'</find>
+      <find>!=</find>
+      <find>[</find>
+      <find>InputStream</find>
+      <find>TreeNode</find>
+      <find>TreeNodeA</find>
+      <find>]</find>
+      <find>*</find>
+      <find>\n</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&amp;amp;</replace>
+      <replace>/</replace>
+      <replace />
+      <replace>fourDays</replace>
+      <replace>'</replace>
+      <replace>!=null</replace>
+      <replace>'0'</replace>
+      <replace>'\0'</replace>
+      <replace>==</replace>
+      <replace>{</replace>
+      <replace>}</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mybatisDemo/src/main/resource/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/mybatisDemo/src/main/java/mybatisTest/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/RangeBitwiseAnd.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/MyAtoi.java" />
+        <option value="$PROJECT_DIR$/mybatisDemo/src/main/resource/mappers/MyMapper.xml" />
+        <option value="$PROJECT_DIR$/mybatisDemo/src/main/java/mybatisTest/MybatisTest.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/RemoveElement.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/ShortestPalindrome.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/LongestPalindrome.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/ReverseWords.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/FindMin.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/MoveZeroes.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/maxProfit.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/MaxProfit.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/Rotate.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/ContainsDuplicate.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/Intersect.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/CountAndSay.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/MyHashSet.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/ClimbStairs.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/NoVisibility.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/ByteStreamTest.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/LevelOrderBottom.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/Test.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/LevelOrder.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/Fbi.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/NumSpecial.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/数据结构/ListNode.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/数据结构/ReversePrint.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/数据结构/IsNumber.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/数据结构/CQueue.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/数据结构/MinStack.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/MaxSubArray.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/数据结构/MaxValue.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/动态规划/MaxSubArray.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/动态规划/MaxValue.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/2/动态规划/LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/2-动态规划/Fbi.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/2动态规划/Fbi.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/动态规划/Fbi.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/动态规划/LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/搜索与回溯算法/TreeNode.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/搜索与回溯算法/IsSubStructure.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/搜索与回溯算法/MirrorTree.java" />
+        <option value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/搜索与回溯算法/IsSymmetric.java" />
+        <option value="$PROJECT_DIR$/src/test/RSATest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernateDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/ThinkingInJAVA/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\downLoad\repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="G:\software\IntelliJ IDEA 2019.1.3\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatisDemo Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatisDemo Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernateDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+              <item name="mappers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="springDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="springDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="springDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="springDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="springDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="ThinkingInJAVA" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demoSpace/excel-boot-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27789935" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\workSpaces\LearnDemo\springDemo\src\main\resources" />
+      <recent name="G:\workSpaces\Database_Demo\src\main\java.com" />
+      <recent name="G:\workSpaces\Database_Demo" />
+      <recent name="G:\workSpaces\Database_Demo\hibernateDemo\src\main\resource\hbmx" />
+      <recent name="G:\workSpaces\Database_Demo\hibernateDemo\src\main\java\hibernateTest\bean" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lee.learn" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\workSpaces\LearnDemo\ThinkingInJAVA\src\main\java\com\lee\learn" />
+      <recent name="G:\workSpaces\LearnDemo\ThinkingInJAVA\src\main\java\com\lee" />
+      <recent name="G:\workSpaces\LearnDemo\ThinkingInJAVA\src\main\java\com\lee\learn1" />
+      <recent name="G:\workSpaces\Database_Demo\mybatisDemo\src\main" />
+      <recent name="G:\workSpaces\Database_Demo\hibernateDemo\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lee.dao" />
+      <recent name="com.lee.learn.proxy.dynamicProxy" />
+      <recent name="mybatisTest.bean" />
+      <recent name="hibernateTest" />
+      <recent name="hibernateTest.bean" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lee.learn.lambda" />
+      <recent name="mybatisTest" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RSATest">
+    <configuration name="IsSymmetric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lee.图解算法数据结构.搜索与回溯算法.IsSymmetric" />
+      <module name="leetcodeLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lee.图解算法数据结构.搜索与回溯算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lee.图解算法数据结构.动态规划.LengthOfLongestSubstring" />
+      <module name="leetcodeLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lee.图解算法数据结构.动态规划.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lee.图解算法数据结构.动态规划.MaxValue" />
+      <module name="leetcodeLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lee.图解算法数据结构.动态规划.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RSATest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RSATest" />
+      <module name="LearnDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversePrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lee.图解算法数据结构.数据结构.ReversePrint" />
+      <module name="leetcodeLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lee.图解算法数据结构.数据结构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RSATest" />
+        <item itemvalue="Application.IsSymmetric" />
+        <item itemvalue="Application.LengthOfLongestSubstring" />
+        <item itemvalue="Application.MaxValue" />
+        <item itemvalue="Application.ReversePrint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a181df1-2da9-417d-a290-ea17b0d924c4" name="Default Changelist" comment="" />
+      <created>1584861300700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584861300700</updated>
+      <workItem from="1584861303575" duration="6080000" />
+      <workItem from="1584868739701" duration="2055000" />
+      <workItem from="1585049918582" duration="1939000" />
+      <workItem from="1585140108548" duration="604000" />
+      <workItem from="1586165039651" duration="5266000" />
+      <workItem from="1586682804508" duration="303000" />
+      <workItem from="1586683150277" duration="4627000" />
+      <workItem from="1588514779709" duration="436000" />
+      <workItem from="1588581035918" duration="5581000" />
+      <workItem from="1588647283090" duration="1311000" />
+      <workItem from="1588852349563" duration="2638000" />
+      <workItem from="1589079298908" duration="4400000" />
+      <workItem from="1589206799916" duration="2386000" />
+      <workItem from="1589720787785" duration="599000" />
+      <workItem from="1589807771768" duration="1352000" />
+      <workItem from="1589893936232" duration="3784000" />
+      <workItem from="1590243358307" duration="4978000" />
+      <workItem from="1590285263730" duration="2473000" />
+      <workItem from="1590406325487" duration="4516000" />
+      <workItem from="1590585074750" duration="966000" />
+      <workItem from="1590586684681" duration="613000" />
+      <workItem from="1590903984050" duration="2790000" />
+      <workItem from="1591185330264" duration="611000" />
+      <workItem from="1591419801493" duration="599000" />
+      <workItem from="1591794787088" duration="1086000" />
+      <workItem from="1591874507444" duration="596000" />
+      <workItem from="1591968707076" duration="4744000" />
+      <workItem from="1592024079182" duration="1674000" />
+      <workItem from="1592395488828" duration="480000" />
+      <workItem from="1592742280953" duration="24000" />
+      <workItem from="1592831160808" duration="5024000" />
+      <workItem from="1593006148055" duration="1203000" />
+      <workItem from="1593099961445" duration="389000" />
+      <workItem from="1593523988724" duration="1857000" />
+      <workItem from="1593608512201" duration="1695000" />
+      <workItem from="1593862157134" duration="595000" />
+      <workItem from="1593929598758" duration="1345000" />
+      <workItem from="1593931703709" duration="1054000" />
+      <workItem from="1594728405426" duration="3224000" />
+      <workItem from="1594814179014" duration="2667000" />
+      <workItem from="1594817986688" duration="71000" />
+      <workItem from="1594818591913" duration="324000" />
+      <workItem from="1594819460831" duration="273000" />
+      <workItem from="1594819895293" duration="777000" />
+      <workItem from="1594904533952" duration="4242000" />
+      <workItem from="1595668472503" duration="1398000" />
+      <workItem from="1595856411360" duration="1781000" />
+      <workItem from="1596542905252" duration="6658000" />
+      <workItem from="1596629184700" duration="4756000" />
+      <workItem from="1596871910630" duration="6439000" />
+      <workItem from="1596942983211" duration="2500000" />
+      <workItem from="1597145458200" duration="612000" />
+      <workItem from="1597464176611" duration="1955000" />
+      <workItem from="1597553322554" duration="2910000" />
+      <workItem from="1597667333503" duration="1929000" />
+      <workItem from="1597752591865" duration="73000" />
+      <workItem from="1598084264307" duration="2631000" />
+      <workItem from="1598161998486" duration="5813000" />
+      <workItem from="1598270937849" duration="3896000" />
+      <workItem from="1598447173913" duration="4171000" />
+      <workItem from="1598691871513" duration="2760000" />
+      <workItem from="1598754139948" duration="2026000" />
+      <workItem from="1598875014061" duration="7321000" />
+      <workItem from="1599048005249" duration="5570000" />
+      <workItem from="1599130493991" duration="3346000" />
+      <workItem from="1599278905650" duration="7066000" />
+      <workItem from="1599356797536" duration="7457000" />
+      <workItem from="1599572399643" duration="1202000" />
+      <workItem from="1599650878176" duration="2112000" />
+      <workItem from="1599902617824" duration="623000" />
+      <workItem from="1600004452468" duration="3196000" />
+      <workItem from="1600087973291" duration="1538000" />
+      <workItem from="1600170036264" duration="4428000" />
+      <workItem from="1600262763086" duration="3102000" />
+      <workItem from="1600691524237" duration="1651000" />
+      <workItem from="1600698320724" duration="778000" />
+      <workItem from="1600773390987" duration="1477000" />
+      <workItem from="1600777091372" duration="2000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MybatisTest_findById - 2020.04.06 at 20h 41m 41s.xml">
+      <configuration name="MybatisTest.findById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ByteBufferTest_getData - 2020.07.15 at 21h 33m 44s.xml">
+      <configuration name="ByteBufferTest.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ByteBufferTest_LargeMappedFiles - 2020.07.16 at 21h 09m 08s.xml">
+      <configuration name="ByteBufferTest.LargeMappedFiles" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SocketTest_t1 - 2020.08.05 at 21h 10m 18s.xml">
+      <configuration name="SocketTest.t1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SocketTest_t1 - 2020.08.05 at 21h 10m 48s.xml">
+      <configuration name="SocketTest.t1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SocketTest_t2 - 2020.08.05 at 21h 14m 41s.xml">
+      <configuration name="SocketTest.t2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_findById - 2020.08.22 at 16h 31m 24s.xml">
+      <configuration name="MybatisTest.findById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_findById - 2020.08.22 at 16h 32m 06s.xml">
+      <configuration name="MybatisTest.findById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_findById - 2020.08.22 at 16h 32m 26s.xml">
+      <configuration name="MybatisTest.findById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_findById - 2020.08.22 at 16h 32m 38s.xml">
+      <configuration name="MybatisTest.findById" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="199426000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49124727" visible="true" weight="0.19083156" />
+      <window_info id="Structure" order="1" sideWeight="0.50875276" side_tool="true" weight="0.23546945" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5032787" side_tool="true" weight="0.26304024" />
+      <window_info id="Web" order="7" sideWeight="0.50149703" side_tool="true" weight="0.22867803" />
+      <window_info id="JRebel" order="8" side_tool="true" />
+      <window_info id="Persistence" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2383532" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33150986" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49946696" weight="0.32827735" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.329718" />
+      <window_info anchor="bottom" id="Problems" order="16" />
+      <window_info anchor="bottom" id="JRebel Executor" order="17" />
+      <window_info anchor="bottom" id="JRebel Console" order="18" side_tool="true" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="RestServices" order="9" weight="0.32995737" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="10" visible="true" weight="0.1684435" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcodeLearn/src/primaryAlgorithm/array/Test1.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springDemo/src/main/java/com/lee/AnnotationBased/Person.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ThinkingInJAVA/src/main/java/com/lee/xml/ReadXml.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/ThreeSumClosest.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/myPow.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/myPow.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://G:/software/jdk/jdk1.8.0_171/jre/lib/rt.jar!/java/lang/Math.class</url>
+          <line>93</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatisDemo/src/main/java/mybatisTest/MybatisTest.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatisDemo/src/main/java/mybatisTest/MybatisTest.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://G:/downLoad/repository/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperRegistry.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatisDemo/src/main/java/mybatisTest/MybatisTest.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/ContainsDuplicate.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/Intersect.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/CountAndSay.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/ByteStreamTest.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/动态规划/LengthOfLongestSubstring.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://G:/downLoad/repository/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/SqlSessionFactory.java</url>
+          <line>26</line>
+          <properties class="org.apache.ibatis.session.SqlSessionFactory" method="openSession">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://G:/software/jdk/jdk1.8.0_171/jre/lib/rt.jar!/javax/xml/parsers/DocumentBuilder.class</url>
+          <line>63</line>
+          <properties class="javax.xml.parsers.DocumentBuilder" method="parse">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LearnDemo$RemoveElement.ic" NAME="RemoveElement Coverage Results" MODIFIED="1598447706643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lee.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://G:/software/jdk/jdk1.8.0_171/jre/lib/rt.jar!/java/io/ByteArrayInputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/ByteStreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JIGSAW/rt">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JIGSAW</ID>
+          <OriginalElement>rt</OriginalElement>
+          <nodes>
+            <node x="" y="">rt</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="23.0" y="16.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/software/jdk/jdk1.8.0_171/jre/lib/rt.jar!/java/lang/AutoCloseable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/software/jdk/jdk1.8.0_171/jre/lib/rt.jar!/java/io/Closeable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.io.InputStream">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.io.InputStream</OriginalElement>
+          <nodes>
+            <node x="" y="">java.io.Closeable</node>
+            <node x="" y="">java.lang.AutoCloseable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="81.0" y="56.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/software/jdk/jdk1.8.0_171/jre/lib/rt.jar!/java/io/InputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.io.BufferedInputStream">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.io.BufferedInputStream</OriginalElement>
+          <nodes>
+            <node x="" y="">java.io.FilterInputStream</node>
+            <node x="" y="">java.io.Closeable</node>
+            <node x="" y="">java.lang.AutoCloseable</node>
+            <node x="" y="">java.io.InputStream</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="99.0" y="137.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.google.protobuf.AbstractMessage">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.google.protobuf.AbstractMessage</OriginalElement>
+          <nodes>
+            <node x="" y="">com.google.protobuf.MessageLite</node>
+            <node x="" y="">com.google.protobuf.AbstractMessage</node>
+            <node x="" y="">com.google.protobuf.Message</node>
+            <node x="" y="">com.google.protobuf.AbstractMessageLite</node>
+            <node x="" y="">com.google.protobuf.MessageLiteOrBuilder</node>
+            <node x="" y="">com.google.protobuf.AbstractMessageLite.Builder</node>
+            <node x="" y="">com.google.protobuf.MessageOrBuilder</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="250.0" y="137.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/downLoad/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-sources.jar!/com/google/protobuf/AbstractMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/software/jdk/jdk1.8.0_171/jre/lib/rt.jar!/java/io/BufferedInputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/software/jdk/jdk1.8.0_171/jre/lib/rt.jar!/java/util/Deque.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/software/jdk/jdk1.8.0_171/jre/lib/rt.jar!/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/LevelOrderBottom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="52" selection-start-line="52" selection-end-line="52" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/LevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/software/jdk/jdk1.8.0_171/jre/lib/rt.jar!/java/util/LinkedList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7791">
+          <caret line="399" column="16" selection-start-line="399" selection-start-column="16" selection-end-line="399" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/software/jdk/jdk1.8.0_171/jre/lib/rt.jar!/java/util/List.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="71" column="9" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/software/jdk/jdk1.8.0_171/jre/lib/rt.jar!/java/util/Queue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/NumSpecial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/数据结构/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/数据结构/ReversePrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" selection-start-line="17" selection-end-line="27" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/数据结构/IsNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hibernateDemo/src/main/resource/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hibernateDemo/src/main/resource/hbmx/User.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/数据结构/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/动态规划/1.kt" />
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/数据结构/CQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" selection-start-line="17" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/动态规划/MaxValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/动态规划/MaxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/动态规划/Fbi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#106#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/动态规划/LengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/搜索与回溯算法/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/搜索与回溯算法/IsSubStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/搜索与回溯算法/MirrorTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeLearn/src/com/lee/图解算法数据结构/搜索与回溯算法/IsSymmetric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://G:/downLoad/repository/cn/hutool/hutool-all/4.5.15/hutool-all-4.5.15.jar!/cn/hutool/crypto/asymmetric/AsymmetricCrypto.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="49" column="65" selection-start-line="49" selection-start-column="65" selection-end-line="49" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/downLoad/repository/cn/hutool/hutool-all/4.5.15/hutool-all-4.5.15.jar!/cn/hutool/crypto/asymmetric/AbstractAsymmetricCrypto.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+          <folding>
+            <element signature="e#1970#1971#0" expanded="true" />
+            <element signature="e#2035#2036#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springDemo/src/test/java/com/lee/lambda/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/downLoad/repository/cn/hutool/hutool-all/4.5.15/hutool-all-4.5.15.jar!/cn/hutool/crypto/asymmetric/RSA.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+          <folding>
+            <element signature="e#1304#1305#0" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/RSATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisDemo/src/main/java/mybatisTest/jdbc_demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisDemo/src/main/java/mybatisTest/MybatisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" selection-start-line="14" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisDemo/src/main/resource/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisDemo/src/main/resource/mappers/MyMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springDemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatisDemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="62" column="25" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hibernateDemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJAVA/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="72" column="44" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>mybatisDemo:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27789935" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (springDemo)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27789935" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27789935" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27789935" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springDemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27789935" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.mybatis:mybatis:3.4.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27789935" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

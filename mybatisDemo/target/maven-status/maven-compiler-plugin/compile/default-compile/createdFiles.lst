@@ -1,0 +1,4 @@
+mybatisTest\MybatisTest.class
+mybatisTest\dao\UserDao.class
+mybatisTest\jdbc_demo.class
+mybatisTest\bean\User.class
