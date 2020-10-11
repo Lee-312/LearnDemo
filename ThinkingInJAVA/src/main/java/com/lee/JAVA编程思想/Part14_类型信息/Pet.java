@@ -1,8 +1,5 @@
-package com.lee.JAVA编程思想.Part11_持有对象;
+package com.lee.JAVA编程思想.Part14_类型信息;
 
-public class Pets {
-
-}
 
 class Individual {
 	private String name;
@@ -21,7 +18,7 @@ class Person extends Individual {
 	}
 }
 
-class Pet extends Individual {
+public class Pet extends Individual {
 	public Pet() {
 		super();
 	}
