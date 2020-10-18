@@ -11,11 +11,11 @@ public class RemoveNthFromEnd {
 		ListNode c = new ListNode(3);
 		ListNode d = new ListNode(4);
 		ListNode e = new ListNode(5);
-//		a.next = b;
-//		b.next = c;
-//		c.next = d;
-//		d.next = e;
-		removeNthFromEnd(a, 1);
+		a.next = b;
+		b.next = c;
+		c.next = d;
+		d.next = e;
+		removeNthFromEnd(a, 2);
 	}
 
 	public static ListNode removeNthFromEnd(ListNode head, int n) {
@@ -68,5 +68,6 @@ public class RemoveNthFromEnd {
 		second.next = second.next.next;
 		return dummy.next;
 	}
+
 
 }
