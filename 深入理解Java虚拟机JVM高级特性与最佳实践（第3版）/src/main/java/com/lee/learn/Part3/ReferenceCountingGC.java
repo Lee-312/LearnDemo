@@ -6,7 +6,7 @@ package com.lee.learn.Part3;
  */
 public class ReferenceCountingGC {
 	public Object instaince = null;
-	private static final int _1M = 1024 * 1024;
+	public static final int _1M = 1024 * 1024;
 	// 这个成员变量作用是占用点内存，以便GC日志看清是否有回收过
 	private byte[] bigSize = new byte[2 * _1M];
 
